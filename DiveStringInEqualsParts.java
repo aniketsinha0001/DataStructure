@@ -22,7 +22,7 @@ class TestEquals{
 	}
 }
 
-public class DiveStringInEqualsParts {
+public class DivideStringInEqualsParts {
 
 	public static void main(String[] args) {
 		TestEquals t=new TestEquals("aaaabbbbbcccc");
